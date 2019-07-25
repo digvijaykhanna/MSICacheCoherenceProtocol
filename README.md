@@ -1,4 +1,3 @@
-***********READ ME*********************
 Created By: Digvijay Khanna
 KSU ID: 810906879
 Date: 7 November, 2017
